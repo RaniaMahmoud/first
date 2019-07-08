@@ -1,0 +1,19 @@
+h1{
+    color:blue; 
+    font-size:30pt
+}
+
+*{
+   background-color: white;
+}
+body { 
+  background: lightblue url("48.png") no-repeat fixed center; 
+  opacity: 0.5; 
+}
+
+/*
+			<br>
+			<img src="48.png" alt="some_text" width="500"height="500"> 
+			<br>
+			
+*/
